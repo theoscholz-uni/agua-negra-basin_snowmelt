@@ -5,27 +5,7 @@ R workflow for snowmelt modelling in the Agua Negra catchment, integrating water
 
 R code for the Agua Negra Basin workflow of my bachelor's thesis
 
-Übersicht über alle benötigten Packages:
-
-#Eventuell installieren oder updaten: install.packages(c("terra", "sf", "whitebox", "dplyr", "ggplot2", "lubridate", "tidyr", "stringr"))
-
-#Packages aufrufen: library(terra)
-
-library(sf)
-
-library(whitebox)
-
-library(dplyr)
-
-library(ggplot2)
-
-library(lubridate)
-
-library(tidyr)
-
-library(stringr)
-
-Verwendete und weiterführende Literatur:
+References:
 
 ANDERSON, E. (2006): Snow Accumulation and Ablation Model – SNOW-17. [Online-Publikation]. [Zugriff am: 12.04.2026]. Verfügbar unter: https://www.weather.gov/media/owp/oh/hrl/docs/22snow17.pdf
 
