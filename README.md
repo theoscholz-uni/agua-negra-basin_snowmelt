@@ -1,7 +1,7 @@
 # agua-negra-basin_snowmelt
 R workflow for snowmelt modelling in the Agua Negra catchment, integrating watershed delineation, ERA5 climate data, camera-derived snow cover, potential direct solar radiation, Monte Carlo calibration, and comparison with VIIRS snow-cover products. NOTE: Notations in the script are written in german!
 
-#BACHELORARBEIT: R-SKRIPT FÜR DAS AGUA NEGRA BECKEN
+#Bachelor thesis - University of Bonn
 
 R code for the Agua Negra Basin workflow of my bachelor's thesis
 
